@@ -32,7 +32,6 @@ export const ModalWindow = ({
   tags,
   onRequestClose,
 }) => {
-  console.log(largeImageURL);
   return (
     <Modal
       style={customStyles}
